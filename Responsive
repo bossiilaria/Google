@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Google</title>
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+		<link rel = "stylesheet" href="main.css">
+		<link rel = "stylesheet" href="animate.css">
+	</head>
+
+	<body>
+		<ul id="nav">
+			<li>
+				<a href="https://plus.google.com/u/0/">+Ilaria</a>
+			</li>
+			<li>
+				<a href="https://mail.google.com">Mail</a>
+			</li>
+			<li>
+				<a href="http://codifyacademy.com/google_demo/">Images</a>
+			</li>
+			<li>
+				<div class="fa fa-th"></div>
+			</li>
+			<li>
+				<div class="fa fa-bell-o"></div>
+			</li>
+			<li>
+				<span id="share">Share</span>
+			</li>
+			<li>
+				<img class="profile_img" src="images/IlaDance.jpg">
+			</li>
+		</ul>
+			<div id="search">
+			<img src="images/google.png">
+			<input class="search_buttons animated flash" autofocus>
+			<ul class="buttons">
+				 <li> Google Search</li>
+				 <li>I'm feeling Lucky</li>
+		</ul> 
+			</div>
+			<div id="bottom">
+		<ul id="left">
+			<li>
+				<a href="#">Advertising</a>
+			</li>
+			<li>
+				<a href="#">Business</a>
+			</li>
+			<li>
+				<a href="#">About</a>
+			</li>
+		</ul>
+		<ul id="right">
+			<li>
+				<a href="#">Privacy & Terms</a>
+			</li>
+			<li>
+				<a href="#">Settings</a>
+			</li>
+		</ul>
+			</div>
+
+
+			<script type="text/javascript" src="js/jquery.js"></script>
+			<script type="text/javascript" src="js/bootstrap.min.js"></script>
+			<script type="text/javascript" src="js/scripts.js"></script>
+
+	</body>
+</html>
